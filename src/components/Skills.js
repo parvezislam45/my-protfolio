@@ -5,10 +5,15 @@ import { skills } from '../data';
 
 const Skills = () => {
   return (
-    <section className='bg-tertiary py-12'>
+    <section id='services' className='bg-tertiary py-12 section'>
       <div className='container mx-auto'>
+      <div className='flex flex-col items-center text-center'>
+          <h2 className='section-title before:content-Skills relative before:absolute before:opacity-40 before:-top-[2rem] before:-left-28 before:hidden before:lg:block'>
+            My Skills
+          </h2>
+        </div>
         <div
-          className='grid grid-cols-8 md:grid-flow-col'
+          className='grid grid-cols-1 md:grid-cols-6 gap-10 mt-10 gap-y-10'
         >
           {skills.map((skill, index) => {
             return (

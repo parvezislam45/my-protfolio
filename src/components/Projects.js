@@ -52,7 +52,7 @@ const Projects = () => {
         </ul>
       </nav>
       {/* projects */}
-      <section className='grid gap-y-12 lg:grid-cols-3 lg:gap-x-8 lg:gap-y-8'>
+      <section className='grid lg:grid-cols-3 lg:gap-x-8 lg:gap-y-8'>
         {projects.map((item) => {
           return <Project item={item} key={item.id} />;
         })}

@@ -1,7 +1,7 @@
 import React from 'react';
+import Allwork from './Allwork';
 
 // import components
-import Projects from './Projects';
 
 const Portfolio = () => {
   return (
@@ -12,11 +12,10 @@ const Portfolio = () => {
             My latest work
           </h2>
           <p className='subtitle'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga veniam
-            labore nisium illum cupiditate reiciendis a numquam
+           See Details My All Work.Service 
           </p>
         </div>
-        <Projects />
+        <Allwork></Allwork>
       </div>
     </section>
   );

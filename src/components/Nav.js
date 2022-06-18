@@ -1,4 +1,5 @@
 import React from 'react';
+import './Allwork.css'
 
 // import navigation data
 import { navigation } from '../data';
@@ -13,7 +14,7 @@ const Nav = () => {
         {navigation.map((item, idx) => {
           return (
             <li
-              className='text-white hover:text-accent cursor-pointer'
+              className='text-white hover:text-accent cursor-pointer fill-current transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 text-sm head'
               key={idx}
             >
               <Link

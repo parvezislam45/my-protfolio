@@ -1,7 +1,13 @@
 import React from 'react';
+import develop from "../assets/img/services/web-development.png";
+import design from "../assets/img/services/website-design.png"
+import font from "../assets/img/services/front.jpg";
+import back from "../assets/img/services/backend.jpeg";
+import deploy from "../assets/img/services/Web_hosting.jpg";
+import server from "../assets/img/services/server.png"
 
 // import services data
-import { services } from '../data';
+// import { services } from '../data';
 
 const Services = () => {
   return (
@@ -12,24 +18,88 @@ const Services = () => {
             What I do for clients
           </h2>
           <p className='subtitle'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga veniam
-            labore nisium illum cupiditate reiciendis a numquam
+          I Always Try To give the Best Service.I Try to Give Satisfied to the Client.I Deliver on Time Their Project.I Give The Highest priority to the Clients & I do as Say If They Are Happy
           </p>
         </div>
-        <div className='grid lg:grid-cols-4 gap-8'>
-          {services.map((service, index) => {
-            const { icon, name, description } = service;
-            return (
-              <div className='bg-secondary p-6 rounded-2xl' key={index}>
-                <div className='text-accent rounded-sm w-12 h-12 flex justify-center items-center mb-24 text-[28px]'>
-                  {icon}
-                </div>
-                <h4 className='text-xl font-medium mb-2'>{name}</h4>
-                <p>{description}</p>
-              </div>
-            );
-          })}
+        <div className="container mx-auto grid grid-cols-1 md:grid-cols-3 gap-10 mt-10 gap-y-10">
+        <div class="shadow-xl w-72">
+          <figure>
+            <img
+              src={develop}
+              alt="Shoes"
+              class="rounded-xl"
+            />
+          </figure>
+          <div class="card-body text-center">
+            <h2 class="text-center text-2xl service">Web Site Development</h2>
+           
+          </div>
         </div>
+        <div class="shadow-xl w-72">
+          <figure>
+            <img
+              src={design}
+              alt="Shoes"
+              class="rounded-xl"
+            />
+          </figure>
+          <div class="card-body text-center">
+            <h2 class="text-center text-2xl service">Design Full Web Site</h2>
+           
+          </div>
+        </div>
+        <div class="shadow-xl w-72">
+          <figure>
+            <img
+              src={font}
+              alt="Shoes"
+              class="rounded-xl"
+            />
+          </figure>
+          <div class="card-body text-center">
+            <h2 class="text-center text-2xl service">Front end Design Web Page</h2>
+            
+          </div>
+        </div>
+        <div class="shadow-xl w-72">
+          <figure>
+            <img
+              src={back}
+              alt="Shoes"
+              class="rounded-xl"
+            />
+          </figure>
+          <div class="card-body text-center">
+            <h2 class="text-center text-2xl service">Back-End Data Management</h2>
+            
+          </div>
+        </div>
+        <div class="shadow-xl w-72">
+          <figure>
+            <img
+              src={server}
+              alt="Shoes"
+              class="rounded-xl"
+            />
+          </figure>
+          <div class="card-body text-center">
+            <h2 class="text-center text-2xl service">Server & Cloud Management</h2>
+            
+          </div>
+        </div>
+        <div class="shadow-xl w-72">
+          <figure>
+            <img
+              src={deploy}
+              alt="Shoes"
+              class="rounded-xl"
+            />
+          </figure>
+          <div class="card-body text-center">
+            <h2 class="text-center text-2xl service">Deploy , Domain & Hosting Support</h2> 
+          </div>
+        </div>
+      </div>
       </div>
     </section>
   );
