@@ -20,7 +20,7 @@ const Hero = () => {
               I Build & Design <br /> Web Interfaces.
             </h1>
             <div className="mt-3">
-            <h6 class="text-sm">Email : parvezislam@gmail.com</h6>
+            <h6 class="text-sm">Email : parvezislam45@gmail.com</h6>
             <h6 class="">Contract : 01683338523</h6>
             </div>
             <div className="mt-5">
