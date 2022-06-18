@@ -32,9 +32,9 @@ import SkillImg11 from './assets/img/skills/bootstrap.png';
 import SkillImg12 from './assets/img/skills/tailwind.png';
 
 // testimonial images
-import TestiImage1 from './assets/img/testimonials/testimonial-1.webp';
-import TestiImage2 from './assets/img/testimonials/testimonial-2.webp';
-import TestiImage3 from './assets/img/testimonials/testimonial-3.webp';
+import TestiImage1 from './assets/img/testimonials/tgghhm.png';
+import TestiImage2 from './assets/img/testimonials/20211210_213827.png';
+import TestiImage3 from './assets/img/testimonials/dfghhhhh.png';
 
 // navigation
 export const navigation = [

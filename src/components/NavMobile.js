@@ -62,7 +62,7 @@ const NavMobile = () => {
 
       <motion.ul
         variants={ulVariants}
-        initial='hidden'
+        initial=''
         animate={isOpen ? 'visible' : ''}
         className={`${
           isOpen ? 'right-0' : '-right-full'
