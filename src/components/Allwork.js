@@ -20,12 +20,12 @@ const Allwork = () => {
                 <h1 class="text-white font-bold text-lg">
                   Project Overview
                 </h1>
-                <p class="text-teal-300 text-xs">mongo db Data Server</p>
-                <p class="text-teal-300 text-xs">firebase authentication</p>
-                <p class="text-teal-300 text-xs">You Added New Item at Home & Database</p>
-                <p class="text-teal-300 text-xs"> Manage inventory to add delete system</p>
-                <p class="text-teal-300 text-xs">delevary & update quantity system</p>
-                <p class="text-teal-300 text-xs">added my item service system</p>
+                <h6 class="text-teal-300 text-xs">mongo db Data Server</h6>
+                <h6 class="text-teal-300 text-xs">firebase authentication</h6>
+                <h6 class="text-teal-300 text-xs">You Added New Item at Home & Database</h6>
+                <h6 class="text-teal-300 text-xs"> Manage inventory to add delete system</h6>
+                <h6 class="text-teal-300 text-xs">delevary & update quantity system</h6>
+                <h6 class="text-teal-300 text-xs">added my item service system</h6>
               </div>
             </div>
           </div>
@@ -115,16 +115,16 @@ const Allwork = () => {
                 <h1 class="text-white font-bold text-lg">
                   Project Overview
                 </h1>
-                <p class="text-teal-300 text-xs">Use React js</p>
-                <p class="text-teal-300 text-xs">use Node Js for Backhand</p>
-                <p class="text-teal-300 text-xs">use Firebase Autentication</p>
-                <p class="text-teal-300 text-xs">use react hook from</p>
-                <p class="text-teal-300 text-xs">use React Query</p>
-                <p class="text-teal-300 text-xs">add dynamic client review section on home page</p>
-                <p class="text-teal-300 text-xs">implement jwt token</p>
-                <p class="text-teal-300 text-xs">use requre admin page</p>
-                <p class="text-teal-300 text-xs">use international payment system</p>
-                <p class="text-teal-300 text-xs">Added Dashboard</p>
+                <h6 class="text-teal-300 text-xs">Use React js</h6>
+                <h6 class="text-teal-300 text-xs">use Node Js for Backhand</h6>
+                <h6 class="text-teal-300 text-xs">use Firebase Autentication</h6>
+                <h6 class="text-teal-300 text-xs">use react hook from</h6>
+                <h6 class="text-teal-300 text-xs">use React Query</h6>
+                <h6 class="text-teal-300 text-xs">add dynamic client review section on home page</h6>
+                <h6 class="text-teal-300 text-xs">implement jwt token</h6>
+                <h6 class="text-teal-300 text-xs">use requre admin page</h6>
+                <h6 class="text-teal-300 text-xs">use international payment system</h6>
+                <h6 class="text-teal-300 text-xs">Added Dashboard</h6>
                
               </div>
             </div>
@@ -285,11 +285,11 @@ const Allwork = () => {
                 <h1 class="text-white font-bold text-lg">
                 Project Overview
                 </h1>
-                <p class="text-teal-300 text-xs">Use Dynamic Search Bar</p>
-                <p class="text-teal-300 text-xs">Use Dynamic Api</p>
-                <p class="text-teal-300 text-xs">Use Dynamic Product Details & Feature</p>
-                <p class="text-teal-300 text-xs">Implement Even handleing system</p>
-                <p class="text-teal-300 text-xs">Use Row Java Script</p>
+                <h6 class="text-teal-300 text-xs">Use Dynamic Search Bar</h6>
+                <h6 class="text-teal-300 text-xs">Use Dynamic Api</h6>
+                <h6 class="text-teal-300 text-xs">Use Dynamic Product Details & Feature</h6>
+                <h6 class="text-teal-300 text-xs">Implement Even handleing system</h6>
+                <h6 class="text-teal-300 text-xs">Use Row Java Script</h6>
               </div>
             </div>
           </div>
@@ -351,10 +351,10 @@ const Allwork = () => {
                 <h1 class="text-white font-bold text-lg">
                   Project Overview
                 </h1>
-                <h6 class="text-xs font-light text-white">Use BootStrap Firmware</h6>
-                <h6 class="text-xs font-light text-white">Make Responsive Navbar</h6>
-                <h6 class="text-xs font-light text-white">Added Carosel System</h6>
-                <h6 class="text-xs font-light text-white">Package System & booking</h6>
+                <h6 class="text-xs font-light text-teal-300 ">Use BootStrap Firmware</h6>
+                <h6 class="text-xs font-light text-teal-300 ">Make Responsive Navbar</h6>
+                <h6 class="text-xs font-light text-teal-300 ">Added Carosel System</h6>
+                <h6 class="text-xs font-light text-teal-300 ">Package System & booking</h6>
               </div>
             </div>
           </div>
