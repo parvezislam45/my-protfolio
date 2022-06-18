@@ -12,7 +12,7 @@ const Allwork = () => {
     <div class="mt-10 max-w-sm mx-auto">
           <div class="relative group">
           <figure class="px-10 pt-10">
-        <img src={bike} alt="Shoes" class="rounded-xl" />
+        <img src={bike} alt="David" class="rounded-xl" />
       </figure>
             <div class="flex justify-center items-center opacity-0 bg-gradient-to-t from-black via-black to-opacity-100 group-hover:opacity-100 absolute top-0 left-0 h-full w-full"></div>
             <div class="absolute top-0 left-0 w-full h-full flex justify-center items-center opacity-0 hover:opacity-100">
