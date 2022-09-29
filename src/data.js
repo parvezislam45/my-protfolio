@@ -25,7 +25,7 @@ import SkillImg4 from './assets/img/skills/reactjs.png';
 import SkillImg5 from './assets/img/skills/mongo db.jpg';
 import SkillImg6 from './assets/img/skills/nodejs.png';
 import SkillImg7 from './assets/img/skills/git.png';
-import SkillImg8 from './assets/img/skills/figma.png';
+import SkillImg8 from './assets/img/skills/react-native_large.png';
 import SkillImg9 from './assets/img/skills/firebase.png';
 import SkillImg10 from './assets/img/skills/es6.png';
 import SkillImg11 from './assets/img/skills/bootstrap.png';
