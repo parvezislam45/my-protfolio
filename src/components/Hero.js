@@ -26,7 +26,7 @@ const Hero = () => {
             <div className="mt-5">
               <button class="w-18 h-10 text-white btn-outline btn-secondary btn transition ease-in-out delay-150 bg-black hover:-translate-y-1 hover:scale-110 duration-300">
                 <a
-                  href="https://drive.google.com/file/d/1nizInMkQo2uh8kPhH1LE1jClg1M8-n5a/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1dPmSjiJyk59aj-v92MF5BT8NsJ-9nbOp/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -37,7 +37,7 @@ const Hero = () => {
             <div className="mt-6">
                   <div class="flex space-x-8">
                   <a
-                      href="https://www.linkedin.com/in/parvez-islam-31a57023b/"
+                      href="https://www.linkedin.com/in/noor-hossain-2708b6229/"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
